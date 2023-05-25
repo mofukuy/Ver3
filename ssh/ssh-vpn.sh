@@ -17,7 +17,7 @@ locality=none
 organization=none
 organizationalunit=none
 commonname=none
-email=adamspx17@gmail.com
+email=mofukuy@gmail.com
 
 # simple password minimal
 curl -sS https://raw.githubusercontent.com/artanodrop/v4/main/ssh/password | openssl aes-256-cbc -d -a -pass pass:scvps07gg -pbkdf2 > /etc/pam.d/common-password
